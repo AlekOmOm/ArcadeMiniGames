@@ -1,12 +1,22 @@
 
+# Contributions
+
+This project is open to contributions from everyone. We welcome contributions from everyone. Please read the following guidelines before submitting your contribution.
+
+- only requirement:
+- 
+  - 
+dsatasks moved to '2. doing' *preferably* done within a week
 
 
-Contribution is completely voluntary. We welcome contributions from everyone. Please read the following guidelines before submitting your contribution.
-
-## How to Contribute
+### How to Contribute
 
 pre-requisite:
 - [Dev environement setup](dev/dev-environment-setup.md)
+- orientation and understanding of the project 
+  - [Client Description](docs/client-description.md)
+  - docs on [Development artifacts](docs/development-artifacts.md)
+  - on [Tech Stack](docs/tech-stack.md)
 
 contributions:
 - Scrum Board: [Trello](https://trello.com/invite/b/NHlF2eav/ATTIa736b1bcc38183dc124699fa4ae28d7dE5C25961/arcade-mini-games-board)
