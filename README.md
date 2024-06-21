@@ -1,7 +1,7 @@
-# ArcadeMiniGames
+## Arcade Mini Games for ArcadeHall client
 Browser based collection of mini-games for nostalgia and entertainment 
 
-## Table of Content
+### Table of Content
 - [Client Description](docs/client-description.md)
 - [Games](docs/games/games.md)
   * [UNO](/docs/games/UNO.md)
@@ -11,7 +11,10 @@ Browser based collection of mini-games for nostalgia and entertainment
   * [Snake](/docs/games/snake.md)
   * *... add a game of your liking.*
 - [How to Play](docs/how-to-play.md)
+
+*for developers:*
 - [How to Contribute](docs/how-to-contribute.md)
+- [Development artifacts](docs/development-artifacts.md)
 - [Tech Stack](docs/tech-stack.md)
   * Frontend: 
     * HTML, CSS, JavaScript
@@ -19,7 +22,7 @@ Browser based collection of mini-games for nostalgia and entertainment
     * Java, Spring, JPA, MySQL
   * Deployment: 
     * Azure
-- [Development artifacts](docs/development-artifacts.md)
+
 - License
     * MIT License
 
