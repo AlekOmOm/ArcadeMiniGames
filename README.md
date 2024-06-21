@@ -2,7 +2,7 @@
 Browser based collection of mini games for nostalgia and entertainment 
 
 ## Table of Content
-- [Description](#description)
+- [Client Description](docs/client-description.md)
 - [Games](#games)
   * [Snake](#snake)
   * [Tetris](#tetris)
@@ -10,7 +10,7 @@ Browser based collection of mini games for nostalgia and entertainment
   * [Space Invaders](#space-invaders)
   * *... add a game of your liking.*
 - [How to Play](#how-to-play)
-- [How to Contribute](#how-to-contribute)
+- [How to Contribute](docs/how-to-contribute.md)
 - [Tech Stack](#tech-stack)
   * Frontend: 
     * HTML, CSS, JavaScript
@@ -20,5 +20,5 @@ Browser based collection of mini games for nostalgia and entertainment
     * Azure
 - [License](#license)
     * MIT License
-- [Contributors](#contributors)
-  * Magnus Munk Braunstein (github: @magnusmunkbraunstein)
+
+  
