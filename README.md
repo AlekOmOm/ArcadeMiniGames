@@ -19,6 +19,7 @@ Browser based collection of mini-games for nostalgia and entertainment
     * Java, Spring, JPA, MySQL
   * Deployment: 
     * Azure
+- [Development artifacts](docs/development-artifacts.md)
 - License
     * MIT License
 
