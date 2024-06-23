@@ -4,9 +4,7 @@
 This project is open to contributions from everyone. We welcome contributions from everyone. Please read the following guidelines before submitting your contribution.
 
 - only requirement:
-- 
-  - 
-dsatasks moved to '2. doing' *preferably* done within a week
+  - tasks moved to '2. doing' *preferably* done within a week
 
 
 ### How to Contribute
